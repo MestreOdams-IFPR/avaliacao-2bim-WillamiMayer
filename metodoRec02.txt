@@ -1,0 +1,1 @@
+O método está igualando as váriaveis e depois aumentando a variável na posição "e" em 1 e diminuindo a "d" em 1
